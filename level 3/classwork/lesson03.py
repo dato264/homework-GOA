@@ -1,0 +1,5 @@
+age = input("enter your age:")
+number = input(18)
+print(age)
+print(number)
+(age < number)
