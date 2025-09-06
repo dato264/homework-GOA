@@ -1,0 +1,12 @@
+l = 28
+r = 10
+t = 25
+w = 19
+g = 5
+a = 6
+p = 25
+n = 5
+print(l + r)
+print(t - w)
+print(g * a)
+print(p / n)
